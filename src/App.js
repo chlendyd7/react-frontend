@@ -1,6 +1,11 @@
 import logo from './logo.svg';
 import './App.css';
 
+function TodoList(){
+  const title = "...";
+  const name = '...';
+}
+
 function App() {
   return (
     <div className="App">
